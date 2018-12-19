@@ -66,3 +66,19 @@ public struct EventData {
 extension EventData: Codable {
     //No Coding key definition needed because of same properties names
 }
+
+extension EventData {
+    
+    func isRecentThan(_ event: EventData) -> Bool {
+        do {
+            let selfDate = try Date.dateFromString(self.initialDate, format: .displayedDate)
+            let selfHour = try Date.dateFromString(self.initialHour, format: .displayedTime)
+            let otherDate = try Date.dateFromString(event.initialDate, format: .displayedDate)
+            let otherHour = try Date.dateFromString(event.initialHour, format: .displayedTime)
+            
+            return selfDate == otherDate ? selfHour <= otherHour : selfDate < otherDate
+        } catch {
+            return false
+        }
+    }
+}

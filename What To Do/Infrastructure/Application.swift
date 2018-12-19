@@ -17,6 +17,9 @@ final class Application: NSObject {
     
     func configure(_ window: UIWindow) {
         
+        let mainvc = MainTabBarViewController()
+        let nc = UINavigationController(rootViewController: mainvc)
+        window.rootViewController = nc
         window.makeKeyAndVisible()
     }
 }
