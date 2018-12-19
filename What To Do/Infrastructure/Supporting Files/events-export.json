@@ -1,0 +1,1249 @@
+{
+  "07888A56-167D-4CDE-9E7D-799406F0CADE" : {
+    "conversationId" : "2FB4B2AA-6046-421C-8223-5525AA705B0B",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Carrer dels Almogàvers, 122, 08018 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Pau Roca B2B Abu Sou (All night long) at The Loft!💃🏻 http://bit.ly/2PBl7X9",
+      "eventEmoji" : "🎧",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "06:00",
+      "initialDate" : "2018-12-22",
+      "initialHour" : "23:55",
+      "latitude" : "41.397937",
+      "localizable" : {
+        "CAT" : "Pau Roca B2B Abu Sou (tota la nit) a The Loft!💃🏻 http://bit.ly/2PBl7X9",
+        "ENG" : "Pau Roca B2B Abu Sou (All night long) at The Loft!💃🏻 http://bit.ly/2PBl7X9",
+        "ESP" : "¡Pau Roca B2B Abu Sou (toda la noche) en The Loft!💃🏻 http://bit.ly/2PBl7X9"
+      },
+      "longitude" : "2.191224",
+      "placeName" : "Razzmatazz",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "MUSIC"
+    },
+    "sharifyID" : "07888A56-167D-4CDE-9E7D-799406F0CADE",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "078B5BFE-218E-4F69-B36E-1FB85A2D414A" : {
+    "conversationId" : "A8340FF6-5E3F-4864-A40F-2970436AF07B",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Passeig Marítim, 38, Barcelona, España",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Saturday Night Squad at Pacha! Who's ready to party?🎉 http://bit.ly/2QWZMfO",
+      "eventEmoji" : "🍒",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "06:00",
+      "initialDate" : "2018-12-22",
+      "initialHour" : "23:55",
+      "latitude" : "41.385975",
+      "localizable" : {
+        "CAT" : "Festa Night Squad! Esteu ready?🎉 http://bit.ly/2QWZMfO",
+        "ENG" : "Saturday Night Squad at Pacha! Who's ready to party?🎉 http://bit.ly/2QWZMfO",
+        "ESP" : "Fiesta Night Squad! Estáis ready?🎉 http://bit.ly/2QWZMfO"
+      },
+      "longitude" : "2.196733",
+      "placeName" : "Pacha Barcelona",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "CUSTOM_EMOJI"
+    },
+    "sharifyID" : "078B5BFE-218E-4F69-B36E-1FB85A2D414A",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "145F2342-25D7-4522-A6F7-7DBE06C045B7" : {
+    "conversationId" : "713F87AF-54A1-473A-B2BC-F13C1AFE5C07",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Passeig Marítim de la Barceloneta, 38, Barcelona, España",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Gossip Room party at Pacha! Who's in? http://bit.ly/2QbQI69",
+      "eventEmoji" : "🍒",
+      "finalDate" : "2018-12-24",
+      "finalHour" : "06:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "23:55",
+      "latitude" : "41.385975",
+      "localizable" : {
+        "CAT" : "Festa Gossip Room a Pacha! 🍒 Qui està? http://bit.ly/2BkaLpG",
+        "ENG" : "Gossip Room party at Pacha!🍒 Who's in? http://bit.ly/2BkaLpG",
+        "ESP" : "Fiesta Gossip Room en Pacha! 🍒 Quién está? http://bit.ly/2BkaLpG"
+      },
+      "longitude" : "2.196733",
+      "placeName" : "Pacha Barcelona",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "BEER"
+    },
+    "sharifyID" : "145F2342-25D7-4522-A6F7-7DBE06C045B7",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "1F9352E3-6210-4050-86DC-24818F5BE100" : {
+    "conversationId" : "84029457-9A98-4F2D-A000-3FC17A14692D",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Plaça Reial, 7, 08002 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Sech + Dexist + The Polar Tree concert http://sidecar.es/serch-dexist-the-polar-tree/",
+      "eventEmoji" : "🎸",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "00:00",
+      "initialDate" : "2018-12-22",
+      "initialHour" : "21:00",
+      "latitude" : "41.3797322",
+      "localizable" : {
+        "CAT" : "Concert de Sech + Dexist + The Polar Tree http://sidecar.es/serch-dexist-the-polar-tree/",
+        "ENG" : "Sech + Dexist + The Polar Tree concert http://sidecar.es/serch-dexist-the-polar-tree/",
+        "ESP" : "Concierto de Sech + Dexist + The Polar Tree http://sidecar.es/serch-dexist-the-polar-tree/"
+      },
+      "longitude" : "2.1752624",
+      "placeName" : "Sidecar",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "MUSIC"
+    },
+    "sharifyID" : "1F9352E3-6210-4050-86DC-24818F5BE100",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "219DED51-B635-4F24-ADAA-2E2F84E231E7" : {
+    "conversationId" : "D06F459D-42AF-40E1-9A56-C3AB65E96A64",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Carrer Nou de Sant Francesc, 5, 08002 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Calling house music lovers! Let's listen to some great beats at Macarena!💃 http://bit.ly/2PDBWAI",
+      "eventEmoji" : "🎹",
+      "finalDate" : "2018-12-24",
+      "finalHour" : "06:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "23:55",
+      "latitude" : "41.379397",
+      "localizable" : {
+        "CAT" : "¡Trucant als amants de la música house! Anem a aquest petit temple de l'electrònica! 💃 http://bit.ly/2PDBWAI",
+        "ENG" : "Calling house music lovers! Let's listen to some great beats at Macarena!💃 http://bit.ly/2QGKho6",
+        "ESP" : "¡Amantes del house! Vayamos a este pequeño templo de la electrónica💃 http://bit.ly/2PDBWAI"
+      },
+      "longitude" : "2.176771",
+      "placeName" : "Macarena Club",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "MUSIC"
+    },
+    "sharifyID" : "219DED51-B635-4F24-ADAA-2E2F84E231E7",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "2D1CD28F-7CE5-418E-8CC7-52FD5DADBEF0" : {
+    "conversationId" : "ED1D7D58-1D7D-4CF7-BC00-4C652B1F9CE6",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Plaça Reial, 17, Barcelona  08002",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Barcelona Big Blues Band ft Agustí Burriel http://bit.ly/2QmLYeW",
+      "eventEmoji" : "🎷",
+      "finalDate" : "2018-12-24",
+      "finalHour" : "00:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "20:00",
+      "latitude" : "41.3797322",
+      "localizable" : {
+        "CAT" : "Barcelona Big Blues Band ft Agustí Burriel http://bit.ly/2QmLYeW",
+        "ENG" : "Barcelona Big Blues Band ft Agustí Burriel http://bit.ly/2QmLYeW",
+        "ESP" : "Barcelona Big Blues Band ft Agustí Burriel http://bit.ly/2QmLYeW"
+      },
+      "longitude" : "2.1752624",
+      "placeName" : "Jamboree",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "MUSIC"
+    },
+    "sharifyID" : "2D1CD28F-7CE5-418E-8CC7-52FD5DADBEF0",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "2EBF54A2-3CBD-4B2B-B92F-352E0E2E26FB" : {
+    "conversationId" : "E3AEDA74-3DD0-4F8E-A244-AF8E85E7E824",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Carrer del Dr. Fleming, 12, 08017 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Do you want to make the weekend longer? Put your best outfit on and let's dance at Nuba!💃",
+      "eventEmoji" : "🥂",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "01:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "19:00",
+      "latitude" : "41.393397",
+      "localizable" : {
+        "CAT" : "Vols allargar el cap de setmana? The Clan és la festa referència del diumenge al vespre! 💃",
+        "ENG" : "Do you want to make the weekend longer? Put your best outfit on and let's dance at Nuba!💃",
+        "ESP" : "¿Quieres alargar el finde? The Clan es la fiesta de referencia del domingo por la tarde-noche! 💃"
+      },
+      "longitude" : "2.135517",
+      "placeName" : "Nuba Restaurant and Lounge",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "CUSTOM_EMOJI"
+    },
+    "sharifyID" : "2EBF54A2-3CBD-4B2B-B92F-352E0E2E26FB",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "30878A36-80CA-47C0-BEE5-ABCC9D9C630F" : {
+    "conversationId" : "0B43D43A-44A3-4648-8F10-6719DE89A871",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Carrer Ferran Turné, 11, 08027 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Christmas vintage market + foodtrucks + live music!🏭 http://bit.ly/2QmQxVK",
+      "eventEmoji" : "🎅🏼",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "21:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "09:00",
+      "latitude" : "41.424639",
+      "localizable" : {
+        "CAT" : "Mercat vintage nadalenc + foodtrucks + música en viu!🏭 http://bit.ly/2QmQxVK",
+        "ENG" : "Christmas vintage market + foodtrucks + live music!🏭 http://bit.ly/2QmQxVK",
+        "ESP" : "¡Mercado vintage navideño + foodtrucks + músic en vivo!🏭 http://bit.ly/2QmQxVK"
+      },
+      "longitude" : "2.192961",
+      "placeName" : "Nau Bostik ",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "RELAX"
+    },
+    "sharifyID" : "30878A36-80CA-47C0-BEE5-ABCC9D9C630F",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "35C7F5E0-00D3-4613-9B60-A35D72442826" : {
+    "conversationId" : "CB62EF44-53D5-4D31-A9B0-F43341ABBB10",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Avinguda de la Catedral, 08003 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Last day of Santa Llúcia Christmas market😍 https://es.firadesantallucia.cat",
+      "eventEmoji" : "🎅🏼",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "20:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "10:00",
+      "latitude" : "41.384828",
+      "localizable" : {
+        "CAT" : "Últim dia de la Fira de Santa Llúcia😍 https://es.firadesantallucia.cat",
+        "ENG" : "Last day of Santa Llúcia Christmas market😍 https://es.firadesantallucia.cat",
+        "ESP" : "Último día de la Feria de Santa Llúcia😍 https://es.firadesantallucia.cat"
+      },
+      "longitude" : "2.175968",
+      "placeName" : "Avinguda Catedral",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "RELAX"
+    },
+    "sharifyID" : "35C7F5E0-00D3-4613-9B60-A35D72442826",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "3784A8F9-98A9-44C8-9AE0-1540C20DBDD2" : {
+    "conversationId" : "4DBC3583-4250-413D-A132-B817FD4439FF",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Carrer de Bergara, 3, 08002 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "NFL Sundays at Belushi´s! http://bit.ly/2zSWksw",
+      "eventEmoji" : "🏈",
+      "finalDate" : "2018-12-24",
+      "finalHour" : "02:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "20:00",
+      "latitude" : "41.386019",
+      "localizable" : {
+        "CAT" : "Diumenges de NFL a Belushi´s! http://bit.ly/2zSWksw",
+        "ENG" : "NFL Sundays at Belushi´s! http://bit.ly/2zSWksw",
+        "ESP" : "Domingos de NFL en Belushi´s! http://bit.ly/2zSWksw"
+      },
+      "longitude" : "2.1677515",
+      "placeName" : "Belushi's",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "SPORT"
+    },
+    "sharifyID" : "3784A8F9-98A9-44C8-9AE0-1540C20DBDD2",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "37BB6FD8-7040-4CDB-81BB-99178E12A931" : {
+    "conversationId" : "97797E10-7577-4425-A710-7875542F6B84",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Carrer Nou de Sant Francesc, 5, 08002 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Calling house music lovers! Let's listen to some great beats at Macarena!💃 http://bit.ly/2BkhIH9",
+      "eventEmoji" : "🎹",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "06:00",
+      "initialDate" : "2018-12-22",
+      "initialHour" : "23:55",
+      "latitude" : "41.379397",
+      "localizable" : {
+        "CAT" : "¡Trucant als amants de la música house! Anem a aquest petit temple de l'electrònica! 💃 http://bit.ly/2BkhIH9",
+        "ENG" : "Calling house music lovers! Let's listen to some great beats at Macarena!💃 http://bit.ly/2BkhIH9",
+        "ESP" : "¡Amantes del house! Vayamos a este pequeño templo de la electrónica💃 http://bit.ly/2BkhIH9"
+      },
+      "longitude" : "2.176771",
+      "placeName" : "Macarena Club",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "MUSIC"
+    },
+    "sharifyID" : "37BB6FD8-7040-4CDB-81BB-99178E12A931",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "43814ECB-0FE1-41D4-BCC8-8E5DDBC4DE8C" : {
+    "conversationId" : "7E9B535D-B903-4CD2-88EE-E500AE519D7C",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Carrer de Terol, 26, 08012 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Improshow, Christmas edition! http://bit.ly/2QJBbuM",
+      "eventEmoji" : "🎭",
+      "finalDate" : "2018-12-24",
+      "finalHour" : "21:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "19:00",
+      "latitude" : "41.403307",
+      "localizable" : {
+        "CAT" : "Improshow, ¡edició Nadal!👻 http://bit.ly/2RRpy1G",
+        "ENG" : "Improshow, Christmas edition! http://bit.ly/2QJBbuM",
+        "ESP" : "Improshow, ¡edición Navidad!👻 http://bit.ly/2RRpy1G"
+      },
+      "longitude" : "2.158577",
+      "placeName" : "Teatreneu",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "CUSTOM_EMOJI"
+    },
+    "sharifyID" : "43814ECB-0FE1-41D4-BCC8-8E5DDBC4DE8C",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "4395D3FB-E5DC-4EFA-B9E6-B753197C9E4A" : {
+    "conversationId" : "B3F9F2A6-73E0-45AF-8B51-D2189834AB27",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Plaza Llibertat, 27, 08012 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "La Marató de TV3: hot chocolate and cakes to raise money for cancer investigation http://bit.ly/2C5sFht",
+      "eventEmoji" : "☕️",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "14:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "09:00",
+      "latitude" : "41.400069",
+      "localizable" : {
+        "CAT" : "La Marató de TV3: xocolatada solidària http://bit.ly/2C5sFht",
+        "ENG" : "La Marató de TV3: hot chocolate and cakes to raise money for cancer investigation http://bit.ly/2C5sFht",
+        "ESP" : "La Marató de TV3: chocolatada solidaria http://bit.ly/2C5sFht"
+      },
+      "longitude" : "2.153229",
+      "placeName" : "Mercat de la Llibertat",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "COFFEE"
+    },
+    "sharifyID" : "4395D3FB-E5DC-4EFA-B9E6-B753197C9E4A",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "4AFF171F-3709-4ED5-9FD2-889531F2B105" : {
+    "conversationId" : "54DBB115-85EC-4C87-959B-108C60816101",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Passeig Marítim, 34, 08003 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Do you feel like dancing to R&B in a fancy club on the beach?🎉💃 http://bit.ly/2zXJ45U",
+      "eventEmoji" : "🎉",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "06:00",
+      "initialDate" : "2018-12-22",
+      "initialHour" : "23:55",
+      "latitude" : "41.3853375",
+      "localizable" : {
+        "CAT" : "Tens ganes de ballar R&B a peu de platja? Opium és the place to be!💃 http://bit.ly/2zXJ45U",
+        "ENG" : "Do you feel like dancing to R&B in a fancy club on the beach?💃http://bit.ly/2zXJ45U",
+        "ESP" : "¿Quieres bailar R&B a pie de playa? ¡Opium es the place to be! 💃 💃 http://bit.ly/2RHDyLZ"
+      },
+      "longitude" : "2.1967775",
+      "placeName" : "Opium Barcelona",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "CUSTOM_EMOJI"
+    },
+    "sharifyID" : "4AFF171F-3709-4ED5-9FD2-889531F2B105",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "5B6EE812-34FC-4527-BC6B-F8E3EB8AEAB9" : {
+    "conversationId" : "90A6D475-A5A9-415F-A467-0900EEBBD50E",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Carrer d'Olzinelles, 31, 08014 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Refugee women from Palestine photo exhibition http://bit.ly/2LddHJ2",
+      "eventEmoji" : "🎨",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "19:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "09:00",
+      "latitude" : "41.372988",
+      "localizable" : {
+        "CAT" : "El fil conductor, expo del Col·lectiu d'Artistes de Sants http://bit.ly/2ErQ4Mh",
+        "ENG" : "Refugee women from Palestine photo exhibition http://bit.ly/2LddHJ2",
+        "ESP" : "El hilo conductor, expo del Colectivo de Artistas de Sants http://bit.ly/2ErQ4Mh"
+      },
+      "longitude" : "2.136586",
+      "placeName" : "Lleialtat Santsenca",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "CUSTOM_EMOJI"
+    },
+    "sharifyID" : "5B6EE812-34FC-4527-BC6B-F8E3EB8AEAB9",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "5EECE118-8576-459C-AEA5-15707CA5575B" : {
+    "conversationId" : "EB332672-32C7-403D-9467-BBE06BA618B5",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Carrer de Joan Güell, 207, 08028 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Hey bikers! Enjoy a vermut in this Harley Davidson santuary!😍 http://bit.ly/2PxFAvW",
+      "eventEmoji" : "🏍",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "14:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "11:00",
+      "latitude" : "41.386123",
+      "localizable" : {
+        "CAT" : "Ep, motards! Gaudiu d'un vermut en aquest temple de Harley Davidson!😍 http://bit.ly/2PxFAvW",
+        "ENG" : "Hey bikers! Enjoy a vermut in this Harley Davidson santuary!😍 http://bit.ly/2PxFAvW",
+        "ESP" : "¡Ei moteros! Disfrutad de un vermú en este templo de Harley Davidson!😍 http://bit.ly/2PxFAvW"
+      },
+      "longitude" : "2.129623",
+      "placeName" : "Espacio Harley Davidson Barcelona",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "BEER"
+    },
+    "sharifyID" : "5EECE118-8576-459C-AEA5-15707CA5575B",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "62E3A783-083A-4CBF-82F7-E0A287B7D541" : {
+    "conversationId" : "FB8F7F6E-FE36-4D7D-ABF5-742674865F7E",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Plaça de Blanquerna, 08001 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Let's go to the Flea Market Barcelona! I've heard we can find great deals!😊 http://bit.ly/2IwZ4z7",
+      "eventEmoji" : "👜",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "19:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "10:00",
+      "latitude" : "41.375429",
+      "localizable" : {
+        "CAT" : "Anem al Flea Market Barcelona! S'hi troben autèntiques gangues! 😊 http://bit.ly/2IwZ4z7",
+        "ENG" : "Let's go to the Flea Market Barcelona! I've heard we can find great deals!😊 http://bit.ly/2IwZ4z7",
+        "ESP" : "¡Vayamos al Flea Market Barcelona! Se encuentran auténticas gangas! 😊 http://bit.ly/2IwZ4z7"
+      },
+      "longitude" : "2.174827",
+      "placeName" : "Plaça Blanquerna",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "CUSTOM_EMOJI"
+    },
+    "sharifyID" : "62E3A783-083A-4CBF-82F7-E0A287B7D541",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "65342DDA-C0F2-44BE-ABC9-1568387D7AC1" : {
+    "conversationId" : "7149AB0B-B60E-4DC8-A845-A09203B76F81",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Carrer del Perill, 10, 08012 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Calling swing lovers! Who's up for some dancing to end the weekend up?🙋🏻 https://www.dioclub.com",
+      "eventEmoji" : "🎹",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "23:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "18:00",
+      "latitude" : "41.399247",
+      "localizable" : {
+        "CAT" : "Pels amants del swing! Qui té ganes de ballar per a acabar el cap de setmana? 🙋🏻 https://www.dioclub.com",
+        "ENG" : "Calling swing lovers! Who's up for some dancing to end the weekend up?🙋🏻 https://www.dioclub.com",
+        "ESP" : "¡Para los amantes del swing! ¿Quién tiene ganas de bailar para terminar el fin de semana? 🙋🏻 https://www.dioclub.com"
+      },
+      "longitude" : "2.161161",
+      "placeName" : "Dio Club Seven Dance",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "MUSIC"
+    },
+    "sharifyID" : "65342DDA-C0F2-44BE-ABC9-1568387D7AC1",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "66CBE64D-439E-4D58-A6B5-6CE4A7C55243" : {
+    "conversationId" : "78FE18F3-B46D-40AE-A2D5-CB34695EAFB6",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Plaça de Santa Maria, 1, 08003 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Josep Carreras opera concert in this amazing venue http://bit.ly/2PDko89",
+      "eventEmoji" : "🎤",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "00:00",
+      "initialDate" : "2018-12-22",
+      "initialHour" : "21:00",
+      "latitude" : "41.383468",
+      "localizable" : {
+        "CAT" : "Concert de Josep Carreras en un escenari únic http://bit.ly/2PDko89",
+        "ENG" : "Josep Carreras opera concert in this amazing venue http://bit.ly/2PDko89",
+        "ESP" : "Concierto de Josep Carreras en un escenario único http://bit.ly/2PDko89"
+      },
+      "longitude" : "2.181835",
+      "placeName" : "Santa Maria del Mar",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "MUSIC"
+    },
+    "sharifyID" : "66CBE64D-439E-4D58-A6B5-6CE4A7C55243",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "686571F7-38F5-4945-9684-FEE6074272C7" : {
+    "conversationId" : "9E138B83-39FB-4840-B176-821A81686FE3",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Passeig del Born, 13, 08003 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "The weekend's not finished yet! Who's in for Leche de tigre party?🕺🏻 http://bit.ly/2yJdrM6",
+      "eventEmoji" : "🎸",
+      "finalDate" : "2018-12-24",
+      "finalHour" : "03:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "21:00",
+      "latitude" : "41.384543",
+      "localizable" : {
+        "CAT" : "El cap de setmana encara no ha acabat! Qui s'apunta a la festa de Leche de tigre del Savage? bit http://bit.ly/2yJdrM6",
+        "ENG" : "The weekend's not finished yet! Who's in for Leche de tigre party?🕺🏻 http://bit.ly/2yJdrM6",
+        "ESP" : "¡El fin de semana aún no ha terminado! ¿Quién se apunta a la fiesta de Leche de tigre de Savage? Bit http://bit.ly/2yJdrM6"
+      },
+      "longitude" : "2.182591",
+      "placeName" : "Bar Savage ",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "MUSIC"
+    },
+    "sharifyID" : "686571F7-38F5-4945-9684-FEE6074272C7",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "6D7ED9B1-CAAA-464F-AD9E-5D55A6D4C4D0" : {
+    "conversationId" : "93306F1B-A72E-44CF-B87D-2B8B57CF8CC6",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Plaça Comercial, 10, 08003 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Let's enjoy the midday and have a vermut listening to samba music! Who's in? http://bit.ly/2Cp4z1S",
+      "eventEmoji" : "🍷",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "06:00",
+      "initialDate" : "2018-12-22",
+      "initialHour" : "23:55",
+      "latitude" : "41.385024",
+      "localizable" : {
+        "CAT" : "Gaudim del migdia i prenem un vermut escoltant samba en directe! Qui s'anima? http://bit.ly/2Cp4z1S",
+        "ENG" : "Let's enjoy the midday and have a vermut listening to samba music! Who's in? http://bit.ly/2Cp4z1S",
+        "ESP" : "¡Disfrutemos del mediodía y tomamos un vermut escuchando samba en directo! ¿Quién se anima? http://bit.ly/2Cp4z1S"
+      },
+      "longitude" : "2.183666",
+      "placeName" : "Guzzo",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "RELAX"
+    },
+    "sharifyID" : "6D7ED9B1-CAAA-464F-AD9E-5D55A6D4C4D0",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "6DCEA385-7B10-4388-9F98-C8CA777022B4" : {
+    "conversationId" : "A130C5A2-4411-4EAB-9749-922C8395F9CD",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Passeig Marítim, 34, 08003 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Do you feel like dancing to R&B in a fancy club on the beach?🎉💃 http://bit.ly/2A3truo",
+      "eventEmoji" : "🎉",
+      "finalDate" : "2018-12-24",
+      "finalHour" : "06:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "23:55",
+      "latitude" : "41.3853375",
+      "localizable" : {
+        "CAT" : "Tens ganes de ballar R&B a peu de platja? Opium és the place to be! 💃 http://bit.ly/2BfRwgI",
+        "ENG" : "Do you feel like dancing to R&B in a fancy club on the beach?🎉💃 http://bit.ly/2PDBWAI",
+        "ESP" : "¿Quieres bailar R&B a pie de playa? ¡Opium es the place to be! 💃 💃 http://bit.ly/2BfRwgI"
+      },
+      "longitude" : "2.1967775",
+      "placeName" : "Opium Barcelona",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "CUSTOM_EMOJI"
+    },
+    "sharifyID" : "6DCEA385-7B10-4388-9F98-C8CA777022B4",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "7F6C8287-E9F7-4660-94DE-09299C7A5001" : {
+    "conversationId" : "6D0B024D-B236-4F90-A7C8-450947D1A412",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Carrer dels Almogàvers, 122, 08018 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Stanislav Tolkachev is playing at The Loft! http://bit.ly/2CbDD54",
+      "eventEmoji" : "🎧",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "06:00",
+      "initialDate" : "2018-12-22",
+      "initialHour" : "23:55",
+      "latitude" : "41.397704",
+      "localizable" : {
+        "CAT" : "Stanislav Tolkachev punxa a The Loft! http://bit.ly/2CbDD54",
+        "ENG" : "Stanislav Tolkachev is playing at The Loft! http://bit.ly/2CbDD54",
+        "ESP" : "¡Stanislav Tolkachev pincha en The Loft! http://bit.ly/2CbDD54"
+      },
+      "longitude" : "2.190966",
+      "placeName" : "Razzmatazz",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "MUSIC"
+    },
+    "sharifyID" : "7F6C8287-E9F7-4660-94DE-09299C7A5001",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "9E6AAA79-4761-41F9-A96E-BC9BE98DFB38" : {
+    "conversationId" : "7A6647A9-E872-49F6-950D-6E0266C61508",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Passeig Marítimo de la Barceloneta 36, Barcelona, España",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Let's share a beer and dance to some great music!🍺💃 http://bit.ly/2Bo97Dg",
+      "eventEmoji" : "🍻",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "06:00",
+      "initialDate" : "2018-12-22",
+      "initialHour" : "23:55",
+      "latitude" : "41.3855209",
+      "localizable" : {
+        "CAT" : "Qui va a la festa Pure Shoko? Bon ambient internacional assegurat! 🍺💃 http://bit.ly/2Bo97Dg",
+        "ENG" : "Let's share a beer and dance to some great music!🍺💃 http://bit.ly/2Bo97Dg",
+        "ESP" : "¿Quien va a la fiesta Pure Shoko? Buen ambiente internacional asegurado🍺💃 http://bit.ly/2Bo97Dg"
+      },
+      "longitude" : "2.1969779",
+      "placeName" : "Shoko",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "BEER"
+    },
+    "sharifyID" : "9E6AAA79-4761-41F9-A96E-BC9BE98DFB38",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "A67F1493-6BD9-42AA-BF64-239FA4957545" : {
+    "conversationId" : "4E30FD33-8493-4177-8E6E-126A12B2DFDB",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Carrer del Comerç, 36, 08003 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Hey there! Who wants to have a look at the handmade products market held here?🧐 http://bit.ly/2CLS6WZ",
+      "eventEmoji" : "🏺",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "15:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "09:00",
+      "latitude" : "41.387655",
+      "localizable" : {
+        "CAT" : "Hola! Qui vol fer una ullada al mercat de productes artesans que es celebra aquí? bit http://bit.ly/2CLS6WZ",
+        "ENG" : "Hey there! Who wants to have a look at the handmade products market held here?🧐 http://bit.ly/2CLS6WZ",
+        "ESP" : "¿Quién quiere echar un vistazo al mercado de productos artesanos que se celebra aquí? bit http://bit.ly/2CLS6WZ"
+      },
+      "longitude" : "2.181647",
+      "placeName" : "Convent de Sant Agustí ",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "RELAX"
+    },
+    "sharifyID" : "A67F1493-6BD9-42AA-BF64-239FA4957545",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "AB7CE933-CC25-4F64-B60E-1A3FE46FC54F" : {
+    "conversationId" : "B90A93E4-8D23-42CE-B344-ADF2A35DBDEE",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Carrer de l'Arc del Teatre, 3, 08002 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Colossvs + Uroz dj set! Great techno night for sure! http://bit.ly/2EejlJw ",
+      "eventEmoji" : "🎧",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "06:00",
+      "initialDate" : "2018-12-22",
+      "initialHour" : "23:55",
+      "latitude" : "41.378075",
+      "localizable" : {
+        "CAT" : "¡Colossvs + Uroz dj set! ¡Bon techno assegurat! http://bit.ly/2EejlJw ",
+        "ENG" : "Colossvs + Uroz dj set! Great techno night for sure! http://bit.ly/2EejlJw ",
+        "ESP" : "¡Colossvs + Uroz dj set! ¡Buen techno asegurado! http://bit.ly/2EejlJw "
+      },
+      "longitude" : "2.174979",
+      "placeName" : "Moog",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "MUSIC"
+    },
+    "sharifyID" : "AB7CE933-CC25-4F64-B60E-1A3FE46FC54F",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "AE993CB1-1BEA-4F78-BD22-46DD15FB04BD" : {
+    "conversationId" : "F5039AB4-8DD9-4A86-9CE3-8F3F0C641B1D",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Av. Francesc Ferrer i Guàrdia, 13, 08038 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "UMEK is playing here tonight!😱 http://bit.ly/2RZ2O0i ",
+      "eventEmoji" : "🎧",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "06:00",
+      "initialDate" : "2018-12-22",
+      "initialHour" : "23:55",
+      "latitude" : "41.369437",
+      "localizable" : {
+        "CAT" : "UMEK punxa aquí aquesta nit!😱 http://bit.ly/2RZ2O0i ",
+        "ENG" : "UMEK is playing here tonight!😱 http://bit.ly/2RZ2O0i ",
+        "ESP" : "¡UMEK pincha aquí esta noche!😱 http://bit.ly/2RZ2O0i "
+      },
+      "longitude" : "2.146821",
+      "placeName" : "Input High Fidelity Club",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "MUSIC"
+    },
+    "sharifyID" : "AE993CB1-1BEA-4F78-BD22-46DD15FB04BD",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "B8C8608E-00E3-488B-AB42-A64FF52C9FC3" : {
+    "conversationId" : "A2ECCCC1-C40E-40AA-AAE9-55E801310E35",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Carrer Comte d'Urgell, 1, 08011 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Discover Sant Antoni's sunday vintage and book market!📚",
+      "eventEmoji" : "📚",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "17:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "09:00",
+      "latitude" : "41.379482",
+      "localizable" : {
+        "CAT" : "Descobreix el mercat dominical de Sant Antoni! Llibres, segells, articles de col·lecció, joguines... Una mica de tot!📚",
+        "ENG" : "Discover Sant Antoni's sunday vintage and book market!📚",
+        "ESP" : "Descubre el mercado dominical de Sant Antoni! Libros, sellos, artículos de colección, juguetes... ¡Un poco de todo! 📚"
+      },
+      "longitude" : "2.162078",
+      "placeName" : "Mercat de Sant Antoni",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "RELAX"
+    },
+    "sharifyID" : "B8C8608E-00E3-488B-AB42-A64FF52C9FC3",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "BE4CB08C-2E9A-4E86-80CC-876CF1129F19" : {
+    "conversationId" : "A7C803FD-858A-481C-9486-183BF6AF8D64",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Plaça Reial, 7, 08002 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Dance to the underground party with Nacho Ruiz + Gato dj set tonight! http://sidecar.es/dttu-181221/",
+      "eventEmoji" : "🎸",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "06:00",
+      "initialDate" : "2018-12-22",
+      "initialHour" : "23:55",
+      "latitude" : "41.3797322",
+      "localizable" : {
+        "CAT" : "Dance to the underground amb els djs Nacho Ruiz i Gato http://sidecar.es/dttu-181221/",
+        "ENG" : "Dance to the underground party with Nacho Ruiz + Gato dj set tonight! http://sidecar.es/dttu-181221/",
+        "ESP" : "Dance to the underground con los djs Nacho Ruiz y Gato http://sidecar.es/dttu-181221/"
+      },
+      "longitude" : "2.1752624",
+      "placeName" : "Sidecar",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "MUSIC"
+    },
+    "sharifyID" : "BE4CB08C-2E9A-4E86-80CC-876CF1129F19",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "BFE51CD2-0E9F-46D8-9AC3-F54DA8A38C9F" : {
+    "conversationId" : "B7D585EF-0D19-4AAA-8269-C75FB918487F",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Plaça Reial, 17, Barcelona  08002",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Let's dance to Kunta K's hip-hop music!🍻💃 http://bit.ly/2TDt1CI",
+      "eventEmoji" : "🍻",
+      "finalDate" : "2018-12-24",
+      "finalHour" : "06:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "23:55",
+      "latitude" : "41.3797322",
+      "localizable" : {
+        "CAT" : "¡Ballem amb la música hip hop de Kunta K! http://bit.ly/2QX2dPu",
+        "ENG" : "Let's dance to Kunta K's hip-hop music!🍻💃 http://bit.ly/2QX2dPu",
+        "ESP" : "¡Bailemos con la música hip hop de Kunta K! http://bit.ly/2QX2dPu"
+      },
+      "longitude" : "2.1752624",
+      "placeName" : "Jamboree Barcelona",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "BEER"
+    },
+    "sharifyID" : "BFE51CD2-0E9F-46D8-9AC3-F54DA8A38C9F",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "C1F0230C-092E-4041-A339-CD79D8FE4559" : {
+    "conversationId" : "5FED56C9-8BB1-47F1-8CFC-1436EB0795C4",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Carrer de l'Hospital, 74, 08001 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Enjoy some craft beers with a live dj set! http://bit.ly/2zTkKCd",
+      "eventEmoji" : "🍻",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "06:00",
+      "initialDate" : "2018-12-22",
+      "initialHour" : "23:55",
+      "latitude" : "41.380112",
+      "localizable" : {
+        "CAT" : "Gaudeix d'unes cerveses artesanes amb dj en directe! http://bit.ly/2zTkKCd",
+        "ENG" : "Enjoy some craft beers with a live dj set! http://bit.ly/2zTkKCd",
+        "ESP" : "¡Disfruta de unas cervezas artesanas con dj en directo! http://bit.ly/2zTkKCd"
+      },
+      "longitude" : "2.169193",
+      "placeName" : "Ølgod",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "BEER"
+    },
+    "sharifyID" : "C1F0230C-092E-4041-A339-CD79D8FE4559",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "C3A39912-1507-4310-892B-6E541D36D964" : {
+    "conversationId" : "0C78F7FF-FC39-4F5A-9B2C-D853175AFD76",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Av. de Vallvidrera, 77, 08017 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Who's in for a walk in Vallvidrera? The views from there are breathtaking! ",
+      "eventEmoji" : "🚶‍♀️",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "10:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "07:00",
+      "latitude" : "41.409020",
+      "localizable" : {
+        "CAT" : "A qui li ve de gust una passejada per Vallvidrera? Les vistes des d'allà són impressionants!",
+        "ENG" : "Who's in for a walk in Vallvidrera? The views from there are breathtaking! ",
+        "ESP" : "¿A quién le apetece un paseo por Vallvidrera? Las vistas desde allí son impresionantes!"
+      },
+      "longitude" : "2.111279",
+      "placeName" : "Vallvidrera",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "RELAX"
+    },
+    "sharifyID" : "C3A39912-1507-4310-892B-6E541D36D964",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "C45C0119-EF41-4C98-8B0D-0E482EF02085" : {
+    "conversationId" : "BBE146BE-16D7-4206-9401-99272B63AB65",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Carrer Ferran Turné, 11, 08027 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Happy Market Christmas edition http://bit.ly/2ry56ro",
+      "eventEmoji" : "🎅🏼",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "19:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "09:00",
+      "latitude" : "41.424639",
+      "localizable" : {
+        "CAT" : "Happy Market edició Nadal http://bit.ly/2ry56ro",
+        "ENG" : "Happy Market Christmas edition http://bit.ly/2ry56ro",
+        "ESP" : "Happy Market edición Navidad http://bit.ly/2ry56ro"
+      },
+      "longitude" : "2.192961",
+      "placeName" : "Nau Bostik ",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "RELAX"
+    },
+    "sharifyID" : "C45C0119-EF41-4C98-8B0D-0E482EF02085",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "C602ABE7-9EE5-4F29-91ED-B8C9286F6BA6" : {
+    "conversationId" : "CE34CF9D-AFA0-4939-8D0F-F77D7D1C66FA",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Carrer d'Aragó, 300, 08009 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Live bossanova music to end the weekend up! http://bit.ly/2ruQngW",
+      "eventEmoji" : "🎷",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "21:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "19:00",
+      "latitude" : "41.393940",
+      "localizable" : {
+        "CAT" : "Jam de bossanova per acabar el finde! http://bit.ly/2ruQngW",
+        "ENG" : "Live bossanova music to end the weekend up! http://bit.ly/2ruQngW",
+        "ESP" : "Jam de bossanova para terminar el finde! http://bit.ly/2ruQngW"
+      },
+      "longitude" : "2.167612",
+      "placeName" : "Hotel OD Barcelona",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "MUSIC"
+    },
+    "sharifyID" : "C602ABE7-9EE5-4F29-91ED-B8C9286F6BA6",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "C609CA38-BF6C-408C-AB88-B7E95C5A0FAA" : {
+    "conversationId" : "B22D40FC-1F4A-4532-BEFC-B5B5911115E3",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Plaça Reial, 17, 08002 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Let's dance to some great hip-hop music!🍻💃 http://bit.ly/2G4o5Uv",
+      "eventEmoji" : "🍻",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "06:00",
+      "initialDate" : "2018-12-22",
+      "initialHour" : "23:55",
+      "latitude" : "41.3797322",
+      "localizable" : {
+        "CAT" : "Jamboree mai decep! Qui vol ballar una mica de hip hop en aquest local llegendari?🍻💃 http://bit.ly/2G4o5Uv",
+        "ENG" : "Let's dance to some great hip-hop music!🍻💃 http://bit.ly/2G4o5Uv",
+        "ESP" : "¡Jamboree nunca decepciona! ¿Quién quiere bailar un poco de hip hop en este local legendario?🍻💃 http://bit.ly/2G4o5Uv"
+      },
+      "longitude" : "2.1752624",
+      "placeName" : "Jamboree Barcelona",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "BEER"
+    },
+    "sharifyID" : "C609CA38-BF6C-408C-AB88-B7E95C5A0FAA",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "C61E334C-1D2D-4425-AC83-1C8B7E45A7AA" : {
+    "conversationId" : "02DA43AE-C70D-45F5-A090-D7F1AF1C0EAA",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Plaça de Sant Jaume, 1, 08002 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "There are free guided tours in the City Hall on Sundays! Who's in?😊",
+      "eventEmoji" : "🏫",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "14:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "10:00",
+      "latitude" : "41.382533",
+      "localizable" : {
+        "CAT" : "Hi ha visites guiades gratuïtes a l'Ajuntament els diumenges! Qui s'hi apunta?",
+        "ENG" : "There are free guided tours in the City Hall on Sundays! Who's in?😊",
+        "ESP" : "¡Hay visitas guiadas gratuitas en el Ayuntamiento los domingos! ¿Quién se apunta?"
+      },
+      "longitude" : "2.177149",
+      "placeName" : "Ajuntament de Barcelona",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "CUSTOM_EMOJI"
+    },
+    "sharifyID" : "C61E334C-1D2D-4425-AC83-1C8B7E45A7AA",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "D0498890-C885-479C-82D0-3C22FE00B2EC" : {
+    "conversationId" : "4CB6DCAA-6BC8-41AC-A2C4-F2EC58DF9E90",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Mirador del Migdia, s/n, 08038 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Let's enjoy the sunset at this lovely hidden terrace!🍻 http://bit.ly/2Dy1Nta",
+      "eventEmoji" : "🍻",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "19:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "16:00",
+      "latitude" : "41.359705",
+      "localizable" : {
+        "CAT" : "¡Gaudim de la posta de sol a aquest racó secret de Montjuïc!🍻 http://bit.ly/2Dy1Nta",
+        "ENG" : "Let's enjoy the sunset at this lovely hidden terrace!🍻 http://bit.ly/2Dy1Nta",
+        "ESP" : "¡Disfrutemos de la puesta de sol en este rincón secreto de Montjuïc! 🍻 http://bit.ly/2Dy1Nta"
+      },
+      "longitude" : "2.160770",
+      "placeName" : "Caseta del Migdia",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "BEER"
+    },
+    "sharifyID" : "D0498890-C885-479C-82D0-3C22FE00B2EC",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "D2F645D1-711B-41A2-B038-06BD446A7ED3" : {
+    "conversationId" : "E3EF87A6-44DC-4E04-9166-AB189629262B",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Av. de Joan XXIII, 1, 08028 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Who feels like skating on ice? https://www.fcbarcelona.es/es/entradas/pista-de-hielo",
+      "eventEmoji" : "⛸",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "21:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "17:00",
+      "latitude" : "41.381225",
+      "localizable" : {
+        "CAT" : "Qui vol patinar sobre gel? https://www.fcbarcelona.es/es/entradas/pista-de-hielo",
+        "ENG" : "Who feels like skating on ice? https://www.fcbarcelona.es/es/entradas/pista-de-hielo",
+        "ESP" : "¿Quién quiere patinar sobre hielo? https://www.fcbarcelona.es/es/entradas/pista-de-hielo"
+      },
+      "longitude" : "2.119910",
+      "placeName" : "Pista de Gel FCB ",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "SPORT"
+    },
+    "sharifyID" : "D2F645D1-711B-41A2-B038-06BD446A7ED3",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "DAEAFB30-A10D-470C-A2C7-6427A28CF87D" : {
+    "conversationId" : "D0A92C9A-BC92-4F3B-845A-755FAAC3AA4E",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Rambla de Catalunya, 4, Barcelona, España",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Let's dance to some Happy Techno!🍻💃 http://bit.ly/2QuYf0U",
+      "eventEmoji" : "🎉",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "06:00",
+      "initialDate" : "2018-12-22",
+      "initialHour" : "23:55",
+      "latitude" : "41.3877236",
+      "localizable" : {
+        "CAT" : "Amants del techno! Qui es deixa caure per la mítica festa Happy Techno? 🍻💃 http://bit.ly/2QuYf0U",
+        "ENG" : "Let's dance to some Happy Techno!🍻💃 http://bit.ly/2QuYf0U",
+        "ESP" : "¡Amantes del techno! ¿Quien se deja caer por la mítica fiesta Happy Techno? 🍻💃 http://bit.ly/2QuYf0U"
+      },
+      "longitude" : "2.168345",
+      "placeName" : "City Hall",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "CUSTOM_EMOJI"
+    },
+    "sharifyID" : "DAEAFB30-A10D-470C-A2C7-6427A28CF87D",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "E30FCCD9-1FB2-42B3-891C-F60D7C23C29A" : {
+    "conversationId" : "FAFC2F67-2C2D-488A-8D49-2594CA3B9F70",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Carrer de Meer, 39, 08003 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "La Marató de TV3: paddle surf for cancer investigation http://bit.ly/2C4ofax",
+      "eventEmoji" : "🏄🏻‍♀️",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "11:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "09:00",
+      "latitude" : "41.377716",
+      "localizable" : {
+        "CAT" : "La Marató de TV3: paddle surf per la investigació del càncer  http://bit.ly/2C4ofax",
+        "ENG" : "La Marató de TV3: paddle surf for cancer investigation http://bit.ly/2C4ofax",
+        "ESP" : "La Marató de TV3: paddle surf for cancer investigation http://bit.ly/2C4ofax"
+      },
+      "longitude" : "2.190314",
+      "placeName" : "Moloka'i SUP Center",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "SPORT"
+    },
+    "sharifyID" : "E30FCCD9-1FB2-42B3-891C-F60D7C23C29A",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "ED47EE97-72B3-490F-BD52-EF5ACE84373A" : {
+    "conversationId" : "8F570F8A-37B4-4DA0-9BAE-7E925ED29F83",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Passeig Marítimo de la Barceloneta 36, Barcelona, España",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Let's rock #LoMás party!💃 http://bit.ly/2KlThNw",
+      "eventEmoji" : "🎉",
+      "finalDate" : "2018-12-24",
+      "finalHour" : "06:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "23:55",
+      "latitude" : "41.3855209",
+      "localizable" : {
+        "CAT" : "Els diumenges al Shoko són #LoMás!💃 http://bit.ly/2Qv0SQk",
+        "ENG" : "Let's rock #LoMás party!💃 http://bit.ly/2Qv0SQk",
+        "ESP" : "Los domingos en Shoko son #LoMás!💃 http://bit.ly/2Qv0SQk"
+      },
+      "longitude" : "2.1969779",
+      "placeName" : "Shoko",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "CUSTOM_EMOJI"
+    },
+    "sharifyID" : "ED47EE97-72B3-490F-BD52-EF5ACE84373A",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "F4BA9D88-FD47-459E-9C49-7C1873B305F2" : {
+    "conversationId" : "02A47A3D-255C-467D-84AC-30BC17E78630",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Ctra. de Montjuïc, 66, 08038 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Montjuïc Castle and the Botanical Garden are free from 3pm to 6pm!🏰 http://bit.ly/2CHN6Tj",
+      "eventEmoji" : "🏰",
+      "finalDate" : "2018-12-23",
+      "finalHour" : "18:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "15:00",
+      "latitude" : "41.363474",
+      "localizable" : {
+        "CAT" : "El castell de Montjuïc i el Jardí Botànic són gratis de 3 a 6!🏰 http://bit.ly/2CHN6Tj",
+        "ENG" : "Montjuïc Castle and the Botanical Garden are free from 3pm to 6pm!🏰 http://bit.ly/2CHN6Tj",
+        "ESP" : "¡El castillo de Montjuïc y el Jardín Botánico son gratis de 3 a 6!🏰 http://bit.ly/2CHN6Tj"
+      },
+      "longitude" : "2.164506",
+      "placeName" : "Castell de Montjuïc",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "CUSTOM_EMOJI"
+    },
+    "sharifyID" : "F4BA9D88-FD47-459E-9C49-7C1873B305F2",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  },
+  "FF01F197-9DD0-413D-A6AB-A718F34E07E0" : {
+    "conversationId" : "90F9D394-9456-4168-ABB2-C8BC70B98829",
+    "sharifyEventData" : {
+      "acceptationManual" : false,
+      "address" : "Carrer Nou de la Rambla, 113, 08004 Barcelona",
+      "adminProfileImageUrl" : "https://lh4.googleusercontent.com/-ARyYaTNl2X0/AAAAAAAAAAI/AAAAAAAAAAc/shjTLByEbJw/s96-c/photo.jpg",
+      "description" : "Churros con chocolate party is back! Who wants to join to the funniest party in Barcelona?💃🏾 http://bit.ly/2zV4Wiv",
+      "eventEmoji" : "🌈",
+      "finalDate" : "2018-12-24",
+      "finalHour" : "05:00",
+      "initialDate" : "2018-12-23",
+      "initialHour" : "18:00",
+      "latitude" : "41.374409",
+      "localizable" : {
+        "CAT" : "Churros con Chocolate ja és aquí! Quién s'apunta a la festa més divertida de la ciutat?💃🏾 http://bit.ly/2zV4Wiv",
+        "ENG" : "Churros con chocolate party is back! Who wants to join to the funniest party in Barcelona?💃🏾 http://bit.ly/2zV4Wiv",
+        "ESP" : "Churros con chocalate está de vuelta! Quién se apunta a la fiesta más divertida de la ciudad?💃🏾 http://bit.ly/2zV4Wiv"
+      },
+      "longitude" : "2.169531",
+      "placeName" : "Sala Apolo",
+      "provider" : "GOOGLE",
+      "sharyPlanType" : "CUSTOM_EMOJI"
+    },
+    "sharifyID" : "FF01F197-9DD0-413D-A6AB-A718F34E07E0",
+    "userList" : {
+      "gzU7Yfzc3QhLi3yKcjLwKfjqiN62" : true
+    },
+    "userType" : "IDEA_BARCELONA"
+  }
+}

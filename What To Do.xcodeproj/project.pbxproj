@@ -8,11 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		D4CC427721CA490600067884 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CC427621CA490600067884 /* AppDelegate.swift */; };
-		D4CC427921CA490600067884 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CC427821CA490600067884 /* ViewController.swift */; };
-		D4CC427C21CA490600067884 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4CC427A21CA490600067884 /* Main.storyboard */; };
 		D4CC427E21CA490900067884 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4CC427D21CA490900067884 /* Assets.xcassets */; };
 		D4CC428121CA490900067884 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4CC427F21CA490900067884 /* LaunchScreen.storyboard */; };
 		D4CC428C21CA490900067884 /* What_To_DoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CC428B21CA490900067884 /* What_To_DoTests.swift */; };
+		D4CC429E21CA4B5100067884 /* Application.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CC429D21CA4B5100067884 /* Application.swift */; };
+		D4CC42A121CA4C7700067884 /* events-export.json in Resources */ = {isa = PBXBuildFile; fileRef = D4CC42A021CA4C7700067884 /* events-export.json */; };
+		D4CC42A421CA4CE800067884 /* Enviroment.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CC42A321CA4CE800067884 /* Enviroment.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,14 +29,16 @@
 /* Begin PBXFileReference section */
 		D4CC427321CA490600067884 /* What To Do.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "What To Do.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4CC427621CA490600067884 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D4CC427821CA490600067884 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		D4CC427B21CA490600067884 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D4CC427D21CA490900067884 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D4CC428021CA490900067884 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D4CC428221CA490900067884 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D4CC428721CA490900067884 /* What To DoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "What To DoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4CC428B21CA490900067884 /* What_To_DoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = What_To_DoTests.swift; sourceTree = "<group>"; };
 		D4CC428D21CA490900067884 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4CC429D21CA4B5100067884 /* Application.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Application.swift; sourceTree = "<group>"; };
+		D4CC429F21CA4C5800067884 /* Prod-Config.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Prod-Config.xcconfig"; sourceTree = "<group>"; };
+		D4CC42A021CA4C7700067884 /* events-export.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "events-export.json"; sourceTree = "<group>"; };
+		D4CC42A321CA4CE800067884 /* Enviroment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enviroment.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,12 +80,9 @@
 		D4CC427521CA490600067884 /* What To Do */ = {
 			isa = PBXGroup;
 			children = (
-				D4CC427621CA490600067884 /* AppDelegate.swift */,
-				D4CC427821CA490600067884 /* ViewController.swift */,
-				D4CC427A21CA490600067884 /* Main.storyboard */,
-				D4CC427D21CA490900067884 /* Assets.xcassets */,
+				D4CC429721CA4A3100067884 /* Interface */,
+				D4CC429621CA4A2800067884 /* Infrastructure */,
 				D4CC427F21CA490900067884 /* LaunchScreen.storyboard */,
-				D4CC428221CA490900067884 /* Info.plist */,
 			);
 			path = "What To Do";
 			sourceTree = "<group>";
@@ -94,6 +94,67 @@
 				D4CC428D21CA490900067884 /* Info.plist */,
 			);
 			path = "What To DoTests";
+			sourceTree = "<group>";
+		};
+		D4CC429621CA4A2800067884 /* Infrastructure */ = {
+			isa = PBXGroup;
+			children = (
+				D4CC42A221CA4CC200067884 /* Bundles */,
+				D4CC429C21CA4B3800067884 /* Data Sources */,
+				D4CC429B21CA4B2900067884 /* Models */,
+				D4CC427621CA490600067884 /* AppDelegate.swift */,
+				D4CC429821CA4A5D00067884 /* Supporting Files */,
+				D4CC429D21CA4B5100067884 /* Application.swift */,
+			);
+			path = Infrastructure;
+			sourceTree = "<group>";
+		};
+		D4CC429721CA4A3100067884 /* Interface */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Interface;
+			sourceTree = "<group>";
+		};
+		D4CC429821CA4A5D00067884 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D4CC427D21CA490900067884 /* Assets.xcassets */,
+				D4CC429A21CA4A6E00067884 /* Prod */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D4CC429A21CA4A6E00067884 /* Prod */ = {
+			isa = PBXGroup;
+			children = (
+				D4CC42A021CA4C7700067884 /* events-export.json */,
+				D4CC428221CA490900067884 /* Info.plist */,
+				D4CC429F21CA4C5800067884 /* Prod-Config.xcconfig */,
+			);
+			name = Prod;
+			sourceTree = "<group>";
+		};
+		D4CC429B21CA4B2900067884 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		D4CC429C21CA4B3800067884 /* Data Sources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Data Sources";
+			sourceTree = "<group>";
+		};
+		D4CC42A221CA4CC200067884 /* Bundles */ = {
+			isa = PBXGroup;
+			children = (
+				D4CC42A321CA4CE800067884 /* Enviroment.swift */,
+			);
+			path = Bundles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -178,8 +239,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				D4CC428121CA490900067884 /* LaunchScreen.storyboard in Resources */,
+				D4CC42A121CA4C7700067884 /* events-export.json in Resources */,
 				D4CC427E21CA490900067884 /* Assets.xcassets in Resources */,
-				D4CC427C21CA490600067884 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -197,8 +258,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D4CC427921CA490600067884 /* ViewController.swift in Sources */,
+				D4CC429E21CA4B5100067884 /* Application.swift in Sources */,
 				D4CC427721CA490600067884 /* AppDelegate.swift in Sources */,
+				D4CC42A421CA4CE800067884 /* Enviroment.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,14 +283,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		D4CC427A21CA490600067884 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D4CC427B21CA490600067884 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		D4CC427F21CA490900067884 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -362,7 +416,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = UE55G86CF4;
-				INFOPLIST_FILE = "What To Do/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/What To Do/Infrastructure/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -380,7 +434,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = UE55G86CF4;
-				INFOPLIST_FILE = "What To Do/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/What To Do/Infrastructure/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
