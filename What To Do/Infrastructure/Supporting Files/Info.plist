@@ -39,5 +39,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>events_data_file_name</key>
+	<string>$(events_data_file_name)</string>
 </dict>
 </plist>
