@@ -22,3 +22,20 @@ extension L10n: Codable {
         case esp = "ESP"
     }
 }
+
+extension L10n {
+    
+    func localized() -> String? {
+        let locale = Locale.current.languageCode
+        switch locale {
+        case "en":
+            return self.eng
+        case "es":
+            return self.esp
+        case "cat":
+            return self.cat
+        default:
+            return self.eng
+        }
+    }
+}

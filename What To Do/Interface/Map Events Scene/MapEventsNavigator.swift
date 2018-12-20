@@ -1,19 +1,20 @@
 //
-//  EventListNavigator.swift
+//  MapEventsNavigator.swift
 //  What To Do
 //
-//  Created by Aitor Pagán on 19/12/2018.
+//  Created by Aitor Pagán on 20/12/2018.
 //  Copyright © 2018 Aitor Pagán. All rights reserved.
 //
 
 import Foundation
-protocol EventListNavigatorProtocol {
+
+protocol MapEventsNavigatorProtocol: class {
     func navigateToDetail(_ item: EventViewModel)
 }
 
-final class EventListNavigator: EventListNavigatorProtocol {
+final class MapEventsNavigator: MapEventsNavigatorProtocol {
     
-    weak var viewController: EventListTableViewController?
+    weak var viewController: MapEventsViewController?
     
     func navigateToDetail(_ item: EventViewModel) {
         let vc = EventDetailViewController()

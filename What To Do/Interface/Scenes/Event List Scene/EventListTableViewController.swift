@@ -63,7 +63,12 @@ class EventListTableViewController: UITableViewController {
                 cell.updateUI(event)
         }.disposed(by: disposeBag)
         
-        
+        tableView.rx
+            .modelSelected(EventViewModel.self)
+            .bind { (vm) in
+            self.navigator?.navigateToDetail(vm)
+        }
+            .disposed(by: disposeBag)
     }
 
 }

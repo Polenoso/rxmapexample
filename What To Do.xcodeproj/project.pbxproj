@@ -13,6 +13,12 @@
 		D490F88E21CAFD7400FBF191 /* MapEventsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D490F88D21CAFD7400FBF191 /* MapEventsViewController.swift */; };
 		D490F89021CB03E600FBF191 /* MapEventsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D490F88F21CB03E600FBF191 /* MapEventsViewModel.swift */; };
 		D490F89221CB047600FBF191 /* MapEventsAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D490F89121CB047600FBF191 /* MapEventsAnnotationView.swift */; };
+		D4B71B9021CC002100327E9B /* MapEventsNavigator.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B71B8F21CC002100327E9B /* MapEventsNavigator.swift */; };
+		D4B71B9421CC03F300327E9B /* EventDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B71B9221CC03F300327E9B /* EventDetailViewController.swift */; };
+		D4B71B9521CC03F300327E9B /* EventDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D4B71B9321CC03F300327E9B /* EventDetailViewController.xib */; };
+		D4B71B9721CC065300327E9B /* EventItemDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B71B9621CC065300327E9B /* EventItemDetailView.swift */; };
+		D4B71B9921CC068F00327E9B /* EventItemDetailModelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B71B9821CC068F00327E9B /* EventItemDetailModelView.swift */; };
+		D4B71B9B21CC082E00327E9B /* EventDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B71B9A21CC082D00327E9B /* EventDetailViewModel.swift */; };
 		D4CC427721CA490600067884 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CC427621CA490600067884 /* AppDelegate.swift */; };
 		D4CC427E21CA490900067884 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4CC427D21CA490900067884 /* Assets.xcassets */; };
 		D4CC428121CA490900067884 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4CC427F21CA490900067884 /* LaunchScreen.storyboard */; };
@@ -54,6 +60,12 @@
 		D490F88D21CAFD7400FBF191 /* MapEventsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapEventsViewController.swift; sourceTree = "<group>"; };
 		D490F88F21CB03E600FBF191 /* MapEventsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapEventsViewModel.swift; sourceTree = "<group>"; };
 		D490F89121CB047600FBF191 /* MapEventsAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapEventsAnnotationView.swift; sourceTree = "<group>"; };
+		D4B71B8F21CC002100327E9B /* MapEventsNavigator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapEventsNavigator.swift; sourceTree = "<group>"; };
+		D4B71B9221CC03F300327E9B /* EventDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventDetailViewController.swift; sourceTree = "<group>"; };
+		D4B71B9321CC03F300327E9B /* EventDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = EventDetailViewController.xib; sourceTree = "<group>"; };
+		D4B71B9621CC065300327E9B /* EventItemDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventItemDetailView.swift; sourceTree = "<group>"; };
+		D4B71B9821CC068F00327E9B /* EventItemDetailModelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventItemDetailModelView.swift; sourceTree = "<group>"; };
+		D4B71B9A21CC082D00327E9B /* EventDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventDetailViewModel.swift; sourceTree = "<group>"; };
 		D4CC427321CA490600067884 /* What To Do.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "What To Do.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4CC427621CA490600067884 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D4CC427D21CA490900067884 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -117,8 +129,21 @@
 				D490F88D21CAFD7400FBF191 /* MapEventsViewController.swift */,
 				D490F88F21CB03E600FBF191 /* MapEventsViewModel.swift */,
 				D490F89121CB047600FBF191 /* MapEventsAnnotationView.swift */,
+				D4B71B8F21CC002100327E9B /* MapEventsNavigator.swift */,
 			);
 			path = "Map Events Scene";
+			sourceTree = "<group>";
+		};
+		D4B71B9121CC031400327E9B /* Event Detail Scene */ = {
+			isa = PBXGroup;
+			children = (
+				D4B71B9221CC03F300327E9B /* EventDetailViewController.swift */,
+				D4B71B9321CC03F300327E9B /* EventDetailViewController.xib */,
+				D4B71B9621CC065300327E9B /* EventItemDetailView.swift */,
+				D4B71B9821CC068F00327E9B /* EventItemDetailModelView.swift */,
+				D4B71B9A21CC082D00327E9B /* EventDetailViewModel.swift */,
+			);
+			path = "Event Detail Scene";
 			sourceTree = "<group>";
 		};
 		D4CC426A21CA490600067884 = {
@@ -260,6 +285,7 @@
 		D4F13AE621CACE3400F2F17E /* Scenes */ = {
 			isa = PBXGroup;
 			children = (
+				D4B71B9121CC031400327E9B /* Event Detail Scene */,
 				D4F13AEE21CAD3DE00F2F17E /* Common Components */,
 				D4F13AE721CACE4900F2F17E /* Event List Scene */,
 			);
@@ -373,6 +399,7 @@
 			files = (
 				D4CC428121CA490900067884 /* LaunchScreen.storyboard in Resources */,
 				D4CC42A121CA4C7700067884 /* events-export.json in Resources */,
+				D4B71B9521CC03F300327E9B /* EventDetailViewController.xib in Resources */,
 				D4CC427E21CA490900067884 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -420,7 +447,10 @@
 				D490F89021CB03E600FBF191 /* MapEventsViewModel.swift in Sources */,
 				D4CC429E21CA4B5100067884 /* Application.swift in Sources */,
 				D4CC427721CA490600067884 /* AppDelegate.swift in Sources */,
+				D4B71B9021CC002100327E9B /* MapEventsNavigator.swift in Sources */,
+				D4B71B9721CC065300327E9B /* EventItemDetailView.swift in Sources */,
 				D4CC42A621CA82A000067884 /* EventData.swift in Sources */,
+				D4B71B9921CC068F00327E9B /* EventItemDetailModelView.swift in Sources */,
 				D4F13AE921CAD02000F2F17E /* EventListTableViewController.swift in Sources */,
 				D4F13AF021CAD3FF00F2F17E /* EventViewModel.swift in Sources */,
 				D4F13AE321CACBF200F2F17E /* MainTabBarViewController.swift in Sources */,
@@ -430,9 +460,11 @@
 				D4F13AE021CAC2FF00F2F17E /* EventsLocalDataStore.swift in Sources */,
 				D4CC42B321CAC1CC00067884 /* DataStoreProtocol.swift in Sources */,
 				D4F13AE521CACC1100F2F17E /* MainTabBarControllersFactory.swift in Sources */,
+				D4B71B9B21CC082E00327E9B /* EventDetailViewModel.swift in Sources */,
 				D4F13AEB21CAD14600F2F17E /* EventListViewModel.swift in Sources */,
 				D4CC42AF21CAAD2500067884 /* Event.swift in Sources */,
 				D490F88B21CAF3E900FBF191 /* EventSimpleCommonView.swift in Sources */,
+				D4B71B9421CC03F300327E9B /* EventDetailViewController.swift in Sources */,
 				D4CC42A821CA833100067884 /* L10n.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

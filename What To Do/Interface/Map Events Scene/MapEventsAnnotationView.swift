@@ -12,7 +12,6 @@ import MapKit
 class MapEventsAnnotation: MKPointAnnotation {
     
     var viewModel: EventViewModel
-    var labelTitle = UILabel()
     
     init(_ vm: EventViewModel) {
         viewModel = vm

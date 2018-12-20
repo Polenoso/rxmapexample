@@ -26,4 +26,10 @@ final class EventsLocalDataStore: EventDataStoreProtocol {
             return Observable.error(error)
         }
     }
+    
+    func fetch(by id:String) -> Observable<Event> {
+        return fetchAll().map({ (events) -> Event in
+            return events.filter({$0.sharifyID == id}).first!
+        })
+    }
 }

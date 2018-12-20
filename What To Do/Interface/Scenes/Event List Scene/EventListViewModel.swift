@@ -12,6 +12,7 @@ import RxCocoa
 
 protocol EventListViewModelProtocol: class {
     func bind() -> Driver<[EventViewModel]>
+    var driver: Driver<[EventViewModel]> {get}
 }
 
 final class EventListViewModel: EventListViewModelProtocol {

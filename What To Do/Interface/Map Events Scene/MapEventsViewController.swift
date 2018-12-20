@@ -17,6 +17,7 @@ class MapEventsViewController: UIViewController {
     private let mapView = MKMapView()
     
     private var viewModel: MapEventsViewModelProtocol?
+    private var navigator: MapEventsNavigatorProtocol?
     
     let disposeBag = DisposeBag()
     
@@ -32,6 +33,9 @@ class MapEventsViewController: UIViewController {
     
     private func setup() {
         let service = MapEventsViewModel(with: EventsLocalDataStore())
+        let navigation = MapEventsNavigator()
+        navigation.viewController = self
+        navigator = navigation
         viewModel = service
     }
     
@@ -82,5 +86,9 @@ extension MapEventsViewController: MKMapViewDelegate {
 
     func mapView(_ mapView: MKMapView, didSelect view: MKAnnotationView) {
         print(view)
+        if let annotation = mapView.annotations.filter({$0.isEqual(view.annotation)}).first as? MapEventsAnnotation {
+            navigator?.navigateToDetail(annotation.viewModel)
+            mapView.deselectAnnotation(annotation, animated: true)
+        }
     }
 }
