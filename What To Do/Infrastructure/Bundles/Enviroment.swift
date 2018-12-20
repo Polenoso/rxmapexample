@@ -9,6 +9,8 @@
 import Foundation
 public enum PlistKey : String {
     case eventsDataFileName = "events_data_file_name"
+    case defaultLatitude = "default_latitude"
+    case defaultLongitude = "default_longitude"
 }
 public struct Environment {
     
@@ -25,6 +27,10 @@ public struct Environment {
         switch key {
         case .eventsDataFileName:
             return infoDict[PlistKey.eventsDataFileName.rawValue] as! String
+        case .defaultLatitude:
+            return infoDict[PlistKey.defaultLatitude.rawValue] as! String
+        case .defaultLongitude:
+            return infoDict[PlistKey.defaultLongitude.rawValue] as! String
         }
     }
 }

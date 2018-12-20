@@ -10,3 +10,5 @@
 // https://help.apple.com/xcode/#/dev745c5c974
 
 events_data_file_name     =   events-export
+default_latitude          =   41.3818
+default_longitude         =   2.1685

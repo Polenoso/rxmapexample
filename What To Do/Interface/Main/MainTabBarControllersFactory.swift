@@ -12,6 +12,7 @@ final class MainTabBarControllersFactory: NSObject {
     
     static func createTabBarControllers() -> [UIViewController] {
         var controllers:[UIViewController] = []
+        controllers.append(createMapEventsController())
         controllers.append(createEventListController())
         return controllers
     }
@@ -20,6 +21,13 @@ final class MainTabBarControllersFactory: NSObject {
         let vc = EventListTableViewController()
         let nc = UINavigationController(rootViewController: vc)
         nc.tabBarItem = UITabBarItem(tabBarSystemItem: .search, tag: 1)
+        return nc
+    }
+    
+    fileprivate static func createMapEventsController() -> UIViewController {
+        let vc = MapEventsViewController()
+        let nc = UINavigationController(rootViewController: vc)
+        nc.tabBarItem = UITabBarItem(tabBarSystemItem: .featured, tag: 0)
         return nc
     }
 }

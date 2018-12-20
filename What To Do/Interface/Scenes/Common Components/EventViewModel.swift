@@ -12,10 +12,16 @@ struct EventViewModel {
     let place: String
     let startDate: String
     let emoji: String
+    let longitude: Double
+    let latitude: Double
+    let id: String
     
-    init(eventData: EventData) {
-        place = eventData.address ?? ""
-        startDate = "\(eventData.initialDate ?? "") \(eventData.initialHour ?? "")"
-        emoji = eventData.eventEmoji ?? "👻"
+    init(eventData: Event) {
+        id = eventData.sharifyID
+        place = eventData.sharifyEventData.address ?? ""
+        startDate = "\(eventData.sharifyEventData.initialDate ?? "") \(eventData.sharifyEventData.initialHour ?? "")"
+        emoji = eventData.sharifyEventData.eventEmoji ?? "👻"
+        longitude = Double(eventData.sharifyEventData.longitude!)!
+        latitude = Double(eventData.sharifyEventData.latitude!)!
     }
 }

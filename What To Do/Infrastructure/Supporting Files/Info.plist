@@ -41,5 +41,9 @@
 	</array>
 	<key>events_data_file_name</key>
 	<string>$(events_data_file_name)</string>
+	<key>default_latitude</key>
+	<string>$(default_latitude)</string>
+	<key>default_longitude</key>
+	<string>$(default_longitude)</string>
 </dict>
 </plist>

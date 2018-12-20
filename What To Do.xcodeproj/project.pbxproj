@@ -10,6 +10,9 @@
 		D490F88721CAE8CE00FBF191 /* Date+Tools.swift in Sources */ = {isa = PBXBuildFile; fileRef = D490F88621CAE8CE00FBF191 /* Date+Tools.swift */; };
 		D490F88921CAEEC900FBF191 /* EventListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D490F88821CAEEC900FBF191 /* EventListTableViewCell.swift */; };
 		D490F88B21CAF3E900FBF191 /* EventSimpleCommonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D490F88A21CAF3E900FBF191 /* EventSimpleCommonView.swift */; };
+		D490F88E21CAFD7400FBF191 /* MapEventsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D490F88D21CAFD7400FBF191 /* MapEventsViewController.swift */; };
+		D490F89021CB03E600FBF191 /* MapEventsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D490F88F21CB03E600FBF191 /* MapEventsViewModel.swift */; };
+		D490F89221CB047600FBF191 /* MapEventsAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D490F89121CB047600FBF191 /* MapEventsAnnotationView.swift */; };
 		D4CC427721CA490600067884 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CC427621CA490600067884 /* AppDelegate.swift */; };
 		D4CC427E21CA490900067884 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4CC427D21CA490900067884 /* Assets.xcassets */; };
 		D4CC428121CA490900067884 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4CC427F21CA490900067884 /* LaunchScreen.storyboard */; };
@@ -48,6 +51,9 @@
 		D490F88621CAE8CE00FBF191 /* Date+Tools.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Tools.swift"; sourceTree = "<group>"; };
 		D490F88821CAEEC900FBF191 /* EventListTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventListTableViewCell.swift; sourceTree = "<group>"; };
 		D490F88A21CAF3E900FBF191 /* EventSimpleCommonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventSimpleCommonView.swift; sourceTree = "<group>"; };
+		D490F88D21CAFD7400FBF191 /* MapEventsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapEventsViewController.swift; sourceTree = "<group>"; };
+		D490F88F21CB03E600FBF191 /* MapEventsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapEventsViewModel.swift; sourceTree = "<group>"; };
+		D490F89121CB047600FBF191 /* MapEventsAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapEventsAnnotationView.swift; sourceTree = "<group>"; };
 		D4CC427321CA490600067884 /* What To Do.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "What To Do.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4CC427621CA490600067884 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D4CC427D21CA490900067884 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -103,6 +109,16 @@
 				D490F88621CAE8CE00FBF191 /* Date+Tools.swift */,
 			);
 			path = Categories;
+			sourceTree = "<group>";
+		};
+		D490F88C21CAFD3600FBF191 /* Map Events Scene */ = {
+			isa = PBXGroup;
+			children = (
+				D490F88D21CAFD7400FBF191 /* MapEventsViewController.swift */,
+				D490F88F21CB03E600FBF191 /* MapEventsViewModel.swift */,
+				D490F89121CB047600FBF191 /* MapEventsAnnotationView.swift */,
+			);
+			path = "Map Events Scene";
 			sourceTree = "<group>";
 		};
 		D4CC426A21CA490600067884 = {
@@ -163,6 +179,7 @@
 			isa = PBXGroup;
 			children = (
 				D4F13AE621CACE3400F2F17E /* Scenes */,
+				D490F88C21CAFD3600FBF191 /* Map Events Scene */,
 				D4F13AE121CACBC600F2F17E /* Main */,
 			);
 			path = Interface;
@@ -397,7 +414,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D490F88E21CAFD7400FBF191 /* MapEventsViewController.swift in Sources */,
+				D490F89221CB047600FBF191 /* MapEventsAnnotationView.swift in Sources */,
 				D4F13AED21CAD15C00F2F17E /* EventListNavigator.swift in Sources */,
+				D490F89021CB03E600FBF191 /* MapEventsViewModel.swift in Sources */,
 				D4CC429E21CA4B5100067884 /* Application.swift in Sources */,
 				D4CC427721CA490600067884 /* AppDelegate.swift in Sources */,
 				D4CC42A621CA82A000067884 /* EventData.swift in Sources */,
